@@ -29,6 +29,8 @@ Conhecimentos desejáveis: noções básicas de eletrônica e linguagem de progr
 	4ª Aula (27/08/2016) - Telemetria, persistência de dados em cartão de memória (NRF24L01, Cartão MicroSD, conclusão do projeto básico reunindo todas as funções programadas nas aulas anteriores); [Fred/Josias Testes Finais, NRF24L01 Ullisses, SD Filipe]
 
 	
+	
+	
 ## Softwares Utilizados
 	[Arduino IDE](http://www.arduino.org)
 	Notepad++ - https://notepad-plus-plus.org/
