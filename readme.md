@@ -17,27 +17,16 @@ Aquisição de dados, telemetria, Arduino
 Conhecimentos desejáveis: noções básicas de eletrônica e linguagem de programação.
 
 ### Carga Horária: 16 horas
-
-	Período: 08/08/2016 a 12/08/2016
-	Segunda a sexta-feira
-	18:00 às 21:00 (18:00 às 22:00 no dia 12/08)
-
-###### OU
-
 	Período: 06/08/2016 a 27/08/2016
 	4 Sábados consecutivos (6, 13, 20 e 27/08/2016)
-	8:00 às 12:00 OU 14:00 às 18:00 (A definir)
-
-
-
+	Horário: 8:00 às 12:00
 
 ## Cronograma
 
-		1ª Aula - Apresentação da plataforma Arduino, noções básicas de eletrônica
-	2ª Aula - Telemetria e aquisição de dados, Arduino IDE, Fritzing
-	3ª Aula - Leitura e interpretação de valores analógicos (Pedais, volante e temperatura - Potenciômetros, LM35)
-	4ª Aula - Leitura e interpretação de valores digitais (Velocidade, posição e inclinação - GPS, giroscópio)
-	5ª Aula - Telemetria, persistência de dados em cartão de memória (NRF24L01, Cartão MicroSD - conclusão do projeto básico)
+	1ª Aula (06/08/2016) - Apresentação da plataforma Arduino, noções básicas de eletrônica, Arduino IDE e Fritzing; [Fred]
+	2ª Aula (13/08/2016) - Leitura e interpretação de valores analógicos (Pedais, volante e temperatura - Potenciômetros, LM35/DHT11); [Josias]
+	3ª Aula (20/08/2016) - Leitura e interpretação de valores digitais (Velocidade, posição e inclinação - GPS, Acelerometro/giroscópio); [GPS Filipe/Ullisses, Giroscopio Fred]
+	4ª Aula (27/08/2016) - Telemetria, persistência de dados em cartão de memória (NRF24L01, Cartão MicroSD, conclusão do projeto básico reunindo todas as funções programadas nas aulas anteriores); [Fred/Josias Testes Finais, NRF24L01 Ullisses, SD Filipe]
 
 ## Softwares Utilizados
 	[Arduino IDE](http://www.arduino.org)
@@ -49,6 +38,7 @@ Conhecimentos desejáveis: noções básicas de eletrônica e linguagem de progr
 		NRF24L01
 		GPS
 		DHT11
+		Cartão SD
 		Acelerometro/Giroscopio
 
 
